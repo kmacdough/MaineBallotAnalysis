@@ -1,2 +1,2 @@
 # MaineBallotAnalysis
-Data analysis on Maine State Elections 
+This was developed in support of Maine's League of Women Voters in support of their work to expand Maine's auditing procedures for statewide elections. These notebooks make use of the data publicly available on the [websate for Maine's Beaurau of Corporations, Elections & Commissions (CEC)](https://www.maine.gov/sos/cec/elec/data/index.html). Feel free to contact me with any comments, quesitons or concerns.
